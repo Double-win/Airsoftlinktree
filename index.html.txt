@@ -67,7 +67,7 @@
         <h1>Airsoft Alpha</h1>
         <p>Seu destino para aventuras de Airsoft! Confira nossos links:</p>
         
-        <a class="link" href="https://www.airsoftalpha.com.br" target="_blank">🌐 Site Oficial</a>
+        <a class="link" href="https://www.airsoftalpha.com.pt" target="_blank">🌐 Site Oficial</a>
         <a class="link" href="https://wa.me/5599999999999" target="_blank">📱 WhatsApp</a>
         <a class="link" href="https://www.instagram.com/airsoftalpha" target="_blank">📸 Instagram</a>
         <a class="link" href="https://www.facebook.com/airsoftalpha" target="_blank">👍 Facebook</a>
